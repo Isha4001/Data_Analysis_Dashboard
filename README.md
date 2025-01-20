@@ -26,3 +26,12 @@ Dashboard - <a href="https://github.com/Isha4001/Data_Analysis_Dashboard/blob/ma
 
 ## DASHBOARD
 ![dashboard screenshot](https://github.com/user-attachments/assets/90807e61-368a-417b-9ea9-b59a519996ca)
+
+## PROJECT INSIGHT
+* Women customers are more likely to buy products compared to men (~65%)
+* Maharashtra, Karnataka and Uttar Pradesh are TOP3 states (~35%)
+* Adult age group (30-49 years) is max contributing (~50%)
+* Amazon, Flipkart and Myntra channels are max contributing (~80%)
+
+## FINAL CONCLUSION
+Target women customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra. 
